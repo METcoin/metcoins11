@@ -20,7 +20,7 @@ title                    : "METCOIN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "METCOIN"
-description              : >WElcome to the future of finance!<
+description              : <WElcome to the future of finance!>
 url                      : "https://metcoin.github.io"
 baseurl                  : "/metcoins11"
 repository               : "METcoin/metcoins11"
