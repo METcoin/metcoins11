@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "METCOIN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "METCOIN"
 description              : "WElcome to the future of finance"
 url                      : "https://metcoin.github.io"
 baseurl                  : "/metcoins11"
