@@ -290,3 +290,13 @@ defaults:
       comments: # true
       share: true
       related: true
+# _config.yml
+
+# Site navigation links
+navigation:
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Buy Now"
+    url: "/buy-now/"
