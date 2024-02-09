@@ -20,3 +20,30 @@ navigation:
     url: "/contact/"
   - title: "Buy Now"
     url: "/buy-now/"
+# about.md
+
+---
+layout: single
+title: About
+permalink: /about/
+---
+
+Content for the About page goes here.
+# contact.md
+
+---
+layout: single
+title: Contact
+permalink: /contact/
+---
+
+Content for the Contact page goes here.
+# buy-now.md
+
+---
+layout: single
+title: Buy Now
+permalink: /buy-now/
+---
+
+Content for the Buy Now page goes here.
