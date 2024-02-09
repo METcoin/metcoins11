@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # _config.yml
+
+# Site navigation links
+navigation:
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Buy Now"
+    url: "/buy-now/"
